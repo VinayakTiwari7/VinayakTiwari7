@@ -8,7 +8,7 @@ Currently pursuing a **B.Tech in Computer Engineering**, with hands-on experienc
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 * **AI & Agentic Systems** — RAG pipelines, tool calling, LangGraph agents, LLM integrations
 * **Backend Systems** — FastAPI, Spring Boot, REST APIs, authentication, asynchronous services
@@ -17,9 +17,9 @@ Currently pursuing a **B.Tech in Computer Engineering**, with hands-on experienc
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 🧠 [Nexus — Agentic RAG Assistant](https://github.com/VinayakTiwari7/nexus)
+###  [Nexus — Agentic RAG Assistant](https://github.com/VinayakTiwari7/nexus)
 
 An autonomous AI assistant combining **LangGraph agent orchestration, RAG, ChromaDB, tool calling, and Gemini**.
 
@@ -34,7 +34,7 @@ An autonomous AI assistant combining **LangGraph agent orchestration, RAG, Chrom
 
 ---
 
-### ⚙️ [Cortex — AI Orchestration Gateway](https://github.com/VinayakTiwari7/cortex)
+###  [Cortex — AI Orchestration Gateway](https://github.com/VinayakTiwari7/cortex)
 
 An asynchronous **LLM gateway** that provides a unified interface for integrating multiple AI providers.
 
@@ -48,7 +48,7 @@ An asynchronous **LLM gateway** that provides a unified interface for integratin
 
 ---
 
-### ☕ [SmartHire — Recruitment Platform](https://github.com/VinayakTiwari7/smarthire)
+###  [SmartHire — Recruitment Platform](https://github.com/VinayakTiwari7/smarthire)
 
 A full-stack recruitment and employee-management platform demonstrating **Java backend engineering and secure API design**.
 
@@ -62,7 +62,7 @@ A full-stack recruitment and employee-management platform demonstrating **Java b
 
 ---
 
-### 🔎 [Lost & Found Portal](https://github.com/VinayakTiwari7/Lost_found_Portal)
+###  [Lost & Found Portal](https://github.com/VinayakTiwari7/Lost_found_Portal)
 
 A full-stack web application for managing lost and found items with authentication, claims, image uploads, and administrative workflows.
 
@@ -70,7 +70,7 @@ A full-stack web application for managing lost and found items with authenticati
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Languages**
 
@@ -98,7 +98,7 @@ A full-stack web application for managing lost and found items with authenticati
 
 ---
 
-## 🧩 Engineering Interests
+##  Engineering Interests
 
 I'm particularly interested in:
 
