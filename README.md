@@ -163,6 +163,6 @@ $$\text{Backend Engineering} \times \text{AI Systems}$$
 ##  Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/vinayak-tiwari-2357a9371](https://linkedin.com/in/vinayak-tiwari-2357a9371)
-- **Portfolio**: [portfolio-eosin-six-cg0cj01myh.vercel.app](https://portfolio-mu-swart-wruiirtba2.vercel.app/)
+- **Portfolio**: [portfolio-mu-swart-wruiirtba2.vercel.app](https://portfolio-mu-swart-wruiirtba2.vercel.app/)
 - **Email**: [tiwarivinayak859@gmail.com](mailto:tiwarivinayak859@gmail.com)
 - **Location**: Mumbai, India
