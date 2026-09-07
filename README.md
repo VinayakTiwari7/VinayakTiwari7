@@ -3,7 +3,7 @@
 ### Backend & AI Systems Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-tiwari-2357a9371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=react&logoColor=white)](https://portfolio-eosin-six-cg0cj01myh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=react&logoColor=white)](https://portfolio-mu-swart-wruiirtba2.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tiwarivinayak859@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VinayakTiwari7)
 
@@ -163,6 +163,6 @@ $$\text{Backend Engineering} \times \text{AI Systems}$$
 ##  Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/vinayak-tiwari-2357a9371](https://linkedin.com/in/vinayak-tiwari-2357a9371)
-- **Portfolio**: [portfolio-eosin-six-cg0cj01myh.vercel.app](https://portfolio-eosin-six-cg0cj01myh.vercel.app/)
+- **Portfolio**: [portfolio-eosin-six-cg0cj01myh.vercel.app](https://portfolio-mu-swart-wruiirtba2.vercel.app/)
 - **Email**: [tiwarivinayak859@gmail.com](mailto:tiwarivinayak859@gmail.com)
 - **Location**: Mumbai, India
